@@ -93,7 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
       // ),
       drawer: const Drawer(),
       body: Container(
-        color: const Color.fromRGBO(0xBA, 0xED, 0xA0, 100),
+        color: const Color.fromRGBO(0xBA, 0xED, 0xA0, 1),
         width: double.infinity,
         height: double.infinity,
         // Center is a layout widget. It takes a single child and positions it

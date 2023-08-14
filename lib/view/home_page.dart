@@ -35,10 +35,14 @@ class _HomePageState extends State<HomePage> {
           onPressed: () {},
           style: const ButtonStyle(
               backgroundColor: MaterialStatePropertyAll(Colors.white)),
-          child: const Icon(
-            Icons.play_arrow,
-            color: Colors.orange,
-            size: 55,
+          child: Padding(
+            padding:
+                const EdgeInsets.only(left: 20.0, right: 20, top: 7, bottom: 7),
+            child: Icon(
+              Icons.play_arrow,
+              color: Colors.orange,
+              size: 55,
+            ),
           ),
         )
       ],
