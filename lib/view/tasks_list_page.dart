@@ -32,8 +32,8 @@ class _TasksListPageState extends State<TasksListPage> {
                   taskCard("Desenvolver App"),
                   taskCard("Idealizar Template"),
                   taskCard("Escolher Cores"),
-                  taskCard("Idealizar Template"),
-                  taskCard("Idealizar Template"),
+                  taskCard("ViewModel Tasks"),
+                  taskCard("ViewModel newTask"),
                   taskCard("Idealizar Template"),
                   taskCard("Idealizar Template"),
                   TextButton(
